@@ -1,0 +1,17 @@
+/* Write your code here: */
+h1 , h2{
+    color:blueviolet
+}
+
+#hi > .done{
+    color:firebrick;
+    font-weight: bold;
+}
+
+.list li{
+    color: blue;
+}
+
+li.done{
+    color:seagreen;
+}
